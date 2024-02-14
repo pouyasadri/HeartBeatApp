@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
-  ```
+   
 2. Open the project in Xcode
 ### Running the App
 - Select a simulator or your device in Xcode.
